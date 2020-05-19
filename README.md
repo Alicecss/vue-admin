@@ -1,5 +1,5 @@
 # demo
-
+用vue-cli3脚手架搭建的vue项目，仅仅是静态的界面，没有用node和MongoDB，可能后续会新增吧
 > A Vue.js project
 
 ## Build Setup
